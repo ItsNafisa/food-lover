@@ -64,6 +64,7 @@ body{
 }
 .section1{
     height: 100%;
+    background-color: #1a1a1a;
     background-image: url(imgs/pizza-compressed.webp);
     background-size: cover;
     background-position: center;
